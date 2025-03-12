@@ -11,14 +11,17 @@ O sistema recebe dois números inteiros como entrada via terminal e realiza a co
 
 ### 🔹 Exemplo de Entrada e Saída
 
-#### ✅ Entrada: Digite o primeiro parâmetro: 12 Digite o segundo parâmetro: 30
+#### ✅ Entrada: 
+Digite o primeiro parâmetro: 12   
+Digite o segundo parâmetro: 30
 #### 🔽 Saída: Imprimindo o número 1 Imprimindo o número 2 Imprimindo o número 3 ... Imprimindo o número 18
 
 
 Se o primeiro parâmetro for maior que o segundo:
 
-#### ❌ Entrada: Digite o primeiro parâmetro: 30 
-                  Digite o segundo parâmetro: 12
+#### ❌ Entrada: 
+Digite o primeiro parâmetro: 30  
+Digite o segundo parâmetro: 12
 #### ⚠️ Saída: O segundo parâmetro deve ser maior que o primeiro
 
 ---
@@ -34,10 +37,10 @@ O projeto contém as seguintes classes:
 
 1. Clone este repositório:
    
-bash
-   git clone https://github.com/seu-usuario/desafio-controle-fluxo.git
+
+   git clone https://github.com/yohanngusso/Controle_Fluxo-DIO.git
 
 🛠 Tecnologias Utilizadas
-Java 21
-Scanner para entrada de dados via terminal
-Exceções customizadas para tratamento de erros
+- Java 21
+- Scanner para entrada de dados via terminal
+- Exceções customizadas para tratamento de erros
